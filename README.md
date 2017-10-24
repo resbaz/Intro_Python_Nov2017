@@ -5,7 +5,7 @@ This Python Beginner's workshop will be running from 9.30am - 5pm on Friday 3rd 
 This workshop is designed for those trying to explore and learn about the wonders of Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those who are already proficient in other coding languages. 
 
 This workshop will be using Python 3.6 inside the Jupyter Notebook. You can find installation instructions inside the 
-[Python_Installation.md]()
+[Python_Installation.md](https://github.com/resbaz/Intro_Python_Nov2017/blob/master/Python_Installation.md)
 instruction file. 
 
 While we will be learning in the Jupyter environment, you may find this a bit heavy for your day-to-day coding life. 
