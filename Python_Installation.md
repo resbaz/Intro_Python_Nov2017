@@ -17,7 +17,7 @@ If you are not taking part in the Open Research event, then you can just install
 
 Anaconda is a Python distribution platform which allows you to install and manage up to 720 different Python packages through the Anaconda installer, `conda`. If you have at least 400MB of free space on your laptop, then I would recommend using this, as it will automatically install many of the packages that you will find useful for your research and future coding. 
 
-Just navigate to the [Anaconda home page](https://www.continuum.io/downloads) and follow the instructions to download Python version 3.6 for your Windows, Mac or Linux device. 
+Just navigate to the [Anaconda home page](https://anaconda.org/anaconda/python) and follow the instructions to download Python version 3.6 for your Windows, Mac or Linux device. 
 
 For windows devices - if you are not sure and are using windows 7, 8, 9 or 10, then download the 64-bit exe installer.
 
